@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/ML_projects_with_MLFLOW/DL_MLFLOW/mlruns/278200992793112047/e08f2282a6dd4ac28421db227b3ca896/artifacts
+end_time: 1736171110890
+entry_point_name: ''
+experiment_id: '278200992793112047'
+lifecycle_stage: active
+run_id: e08f2282a6dd4ac28421db227b3ca896
+run_name: rare-swan-605
+run_uuid: e08f2282a6dd4ac28421db227b3ca896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736171081692
+status: 3
+tags: []
+user_id: SB INFO

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/ML_projects_with_MLFLOW/DL_MLFLOW/mlruns/278200992793112047/2d2cdb8729e54ae8adba2767748235fc/artifacts
+end_time: 1736171138364
+entry_point_name: ''
+experiment_id: '278200992793112047'
+lifecycle_stage: active
+run_id: 2d2cdb8729e54ae8adba2767748235fc
+run_name: orderly-ray-483
+run_uuid: 2d2cdb8729e54ae8adba2767748235fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736171111016
+status: 3
+tags: []
+user_id: SB INFO

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/ML_projects_with_MLFLOW/DL_MLFLOW/mlruns/278200992793112047/e2737bdc34db493d8c3faf6b1f4b7eae/artifacts
+end_time: 1736171186667
+entry_point_name: ''
+experiment_id: '278200992793112047'
+lifecycle_stage: active
+run_id: e2737bdc34db493d8c3faf6b1f4b7eae
+run_name: capable-shoat-85
+run_uuid: e2737bdc34db493d8c3faf6b1f4b7eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736171163542
+status: 3
+tags: []
+user_id: SB INFO

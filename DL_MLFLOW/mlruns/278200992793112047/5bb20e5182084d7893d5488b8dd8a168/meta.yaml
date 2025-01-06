@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Projects/ML_projects_with_MLFLOW/DL_MLFLOW/mlruns/278200992793112047/5bb20e5182084d7893d5488b8dd8a168/artifacts
+end_time: 1736171203471
+entry_point_name: ''
+experiment_id: '278200992793112047'
+lifecycle_stage: active
+run_id: 5bb20e5182084d7893d5488b8dd8a168
+run_name: righteous-ant-472
+run_uuid: 5bb20e5182084d7893d5488b8dd8a168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736171081156
+status: 3
+tags: []
+user_id: SB INFO
